@@ -1,1 +1,0 @@
-To build the program just use make with gcc while in the webserver folder
