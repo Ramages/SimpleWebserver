@@ -7,3 +7,5 @@ the sent request is valid.
 Other implemented status codes are 400, 403, 404 and 200.
 
 To compile the program, just run the makefile in the webserver folder
+
+Additionally, a great source of knowledge for creating this was nweb23, so Thank you Nigel Griffiths.
